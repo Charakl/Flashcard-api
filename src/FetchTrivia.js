@@ -16,7 +16,7 @@ export default function FetchTrivia({ selectedOption, keyToUpdate }) {
             {
               method: "GET",
               headers: {
-                "X-Api-Key": "I4xBjiIR/HXEmRa4fwY8ug==m6wQuVYjYn6x5uSU",
+                "X-Api-Key": "KEY",
               },
             }
           );
